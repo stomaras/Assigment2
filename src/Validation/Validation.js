@@ -20,8 +20,7 @@ const validation = (props) => {
     return (
         <div>
             <p>{validationMessage}</p>
-        
-        
+            
          </div>
     );
 };
